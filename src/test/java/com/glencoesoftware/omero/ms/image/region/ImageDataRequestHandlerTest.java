@@ -89,8 +89,6 @@ import static omero.rtypes.rtime;
 import static org.mockito.Mockito.spy;
 import static org.mockito.Mockito.when;
 
-import dev.zarr.zarrjava.v2.Group;
-import dev.zarr.zarrjava.core.Attributes;
 import dev.zarr.zarrjava.ZarrException;
 import com.github.benmanes.caffeine.cache.Caffeine;
 import com.glencoesoftware.bioformats2raw.Converter;

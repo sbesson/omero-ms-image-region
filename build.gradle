@@ -20,8 +20,8 @@ repositories {
     mavenCentral()
     mavenLocal()
     maven {
-        name 'Unidata'
-        url 'https://artifacts.glencoesoftware.com/artifactory/unidata-releases'
+        name = 'Unidata'
+        url = 'https://artifacts.unidata.ucar.edu/repository/unidata-releases/'
     }
     maven {
         url 'https://artifacts.glencoesoftware.com/artifactory/ome.releases'
